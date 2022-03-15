@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Authors on 共著ブログ</title>
-    <link>/authors/</link>
+    <link>https://kurehajime.github.io/coblog/authors/</link>
     <description>Recent content in Authors on 共著ブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="https://kurehajime.github.io/coblog/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>taro</title>
-      <link>/authors/taro/</link>
+      <link>https://kurehajime.github.io/coblog/authors/taro/</link>
       <pubDate>Tue, 15 Mar 2022 13:09:37 +0000</pubDate>
       
-      <guid>/authors/taro/</guid>
+      <guid>https://kurehajime.github.io/coblog/authors/taro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hanako</title>
-      <link>/authors/hanako/</link>
+      <link>https://kurehajime.github.io/coblog/authors/hanako/</link>
       <pubDate>Tue, 15 Mar 2022 13:08:37 +0000</pubDate>
       
-      <guid>/authors/hanako/</guid>
+      <guid>https://kurehajime.github.io/coblog/authors/hanako/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jiro</title>
-      <link>/authors/jiro/</link>
+      <link>https://kurehajime.github.io/coblog/authors/jiro/</link>
       <pubDate>Tue, 15 Mar 2022 11:51:06 +0000</pubDate>
       
-      <guid>/authors/jiro/</guid>
+      <guid>https://kurehajime.github.io/coblog/authors/jiro/</guid>
       <description></description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>好きな食べ物は？ on 共著ブログ</title>
-    <link>/fabfood/</link>
+    <link>https://kurehajime.github.io/coblog/fabfood/</link>
     <description>Recent content in 好きな食べ物は？ on 共著ブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="/fabfood/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="https://kurehajime.github.io/coblog/fabfood/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>カレー</title>
-      <link>/fabfood/curry/</link>
+      <link>https://kurehajime.github.io/coblog/fabfood/curry/</link>
       <pubDate>Tue, 15 Mar 2022 13:09:37 +0000</pubDate>
       
-      <guid>/fabfood/curry/</guid>
+      <guid>https://kurehajime.github.io/coblog/fabfood/curry/</guid>
       <description>カレー（咖哩、英: curry, タミル語: கறி, タミル語ラテン翻字: kaṟi）は、多種類の香辛料を併用して食材に味付けするというインド料理の特徴的な調理法を用いた料理に対する英語名。転じて、それを元にしたヨーロッパ系の料理や、同様に多種の香辛料を併用して味付けされる東南アジアなどの料理も指す。</description>
     </item>
     
     <item>
       <title>納豆</title>
-      <link>/fabfood/natto/</link>
+      <link>https://kurehajime.github.io/coblog/fabfood/natto/</link>
       <pubDate>Tue, 15 Mar 2022 13:08:37 +0000</pubDate>
       
-      <guid>/fabfood/natto/</guid>
+      <guid>https://kurehajime.github.io/coblog/fabfood/natto/</guid>
       <description>納豆（なっとう）は、よく蒸した大豆を納豆菌によって発酵させた発酵食品。一般的に「糸引き納豆」を指す。菓子の一種である甘納豆とは異なる。世界各国に類似の食品が存在する。</description>
     </item>
     
