@@ -8,4 +8,4 @@ run:
 	docker-compose up
 
 new:
-	docker-compose run --rm hugo new ${section}/${title}
+	docker-compose run --rm hugo new ${section}/${title}.md
