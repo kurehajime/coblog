@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>共著ブログ</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on 共著ブログ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 13:09:37 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>カレー</title>
-      <link>http://example.org/fabfood/curry/</link>
+      <link>/fabfood/curry/</link>
       <pubDate>Tue, 15 Mar 2022 13:09:37 +0000</pubDate>
       
-      <guid>http://example.org/fabfood/curry/</guid>
+      <guid>/fabfood/curry/</guid>
       <description>カレー（咖哩、英: curry, タミル語: கறி, タミル語ラテン翻字: kaṟi）は、多種類の香辛料を併用して食材に味付けするというインド料理の特徴的な調理法を用いた料理に対する英語名。転じて、それを元にしたヨーロッパ系の料理や、同様に多種の香辛料を併用して味付けされる東南アジアなどの料理も指す。</description>
     </item>
     
     <item>
       <title>納豆</title>
-      <link>http://example.org/fabfood/natto/</link>
+      <link>/fabfood/natto/</link>
       <pubDate>Tue, 15 Mar 2022 13:08:37 +0000</pubDate>
       
-      <guid>http://example.org/fabfood/natto/</guid>
+      <guid>/fabfood/natto/</guid>
       <description>納豆（なっとう）は、よく蒸した大豆を納豆菌によって発酵させた発酵食品。一般的に「糸引き納豆」を指す。菓子の一種である甘納豆とは異なる。世界各国に類似の食品が存在する。</description>
     </item>
     
     <item>
       <title>バーチャルボーイ</title>
-      <link>http://example.org/mujin/virtualboy/</link>
+      <link>/mujin/virtualboy/</link>
       <pubDate>Tue, 15 Mar 2022 12:24:24 +0000</pubDate>
       
-      <guid>http://example.org/mujin/virtualboy/</guid>
+      <guid>/mujin/virtualboy/</guid>
       <description>バーチャルボーイ（VIRTUAL BOY）は、任天堂が発売した3Dゲーム機。横井軍平が発案。略称「VB」。その外見から「赤い眼鏡」とも呼称された。1995年7月21日発売。希望小売価格15,000円。全世界累計出荷台数は77万台。</description>
     </item>
     
     <item>
       <title> 愛蔵版  スタジオジブリ絵コンテ全集</title>
-      <link>http://example.org/mujin/ghibli/</link>
+      <link>/mujin/ghibli/</link>
       <pubDate>Tue, 15 Mar 2022 12:23:55 +0000</pubDate>
       
-      <guid>http://example.org/mujin/ghibli/</guid>
+      <guid>/mujin/ghibli/</guid>
       <description>「風の谷のナウシカ」から「千と千尋の神隠し」まで。映画の設計図となるジブリ全13作品の絵コンテを完全収録した全集。</description>
     </item>
     
     <item>
       <title>MacBook Pro</title>
-      <link>http://example.org/mujin/macbookpro/</link>
+      <link>/mujin/macbookpro/</link>
       <pubDate>Tue, 15 Mar 2022 11:51:06 +0000</pubDate>
       
-      <guid>http://example.org/mujin/macbookpro/</guid>
+      <guid>/mujin/macbookpro/</guid>
       <description>MacBook Pro。Appleの最もパワフルなノートブックです。高速のM1プロセッサ。目を奪うグラフィックス。どこまでも美しいRetinaディスプレイ。</description>
     </item>
     

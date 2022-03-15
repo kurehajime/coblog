@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2022-03-15T13:09:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/taro/</loc>
+    <loc>/authors/taro/</loc>
     <lastmod>2022-03-15T13:09:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/fabfood/curry/</loc>
+    <loc>/fabfood/curry/</loc>
     <lastmod>2022-03-15T13:09:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <lastmod>2022-03-15T13:09:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/fabfood/</loc>
+    <loc>/fabfood/</loc>
     <lastmod>2022-03-15T13:09:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/hanako/</loc>
+    <loc>/authors/hanako/</loc>
     <lastmod>2022-03-15T13:08:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/fabfood/natto/</loc>
+    <loc>/fabfood/natto/</loc>
     <lastmod>2022-03-15T13:08:37+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/mujin/virtualboy/</loc>
+    <loc>/mujin/virtualboy/</loc>
     <lastmod>2022-03-15T12:24:24+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/mujin/</loc>
+    <loc>/mujin/</loc>
     <lastmod>2022-03-15T12:24:24+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/mujin/ghibli/</loc>
+    <loc>/mujin/ghibli/</loc>
     <lastmod>2022-03-15T12:23:55+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/jiro/</loc>
+    <loc>/authors/jiro/</loc>
     <lastmod>2022-03-15T11:51:06+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/mujin/macbookpro/</loc>
+    <loc>/mujin/macbookpro/</loc>
     <lastmod>2022-03-15T11:51:06+00:00</lastmod>
   </url>
 </urlset>

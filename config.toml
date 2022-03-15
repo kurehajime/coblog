@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+relativeURLs = true
 languageCode = 'ja-JP'
 title = '共著ブログ'
 theme = "hugo-PaperMod-6.0"
