@@ -1,0 +1,9 @@
+{{- define "main" }}
+
+<ul>
+  {{ range .Sections }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  {{ end }}
+</ul>
+
+{{- end }}{{- /* end main */ -}}

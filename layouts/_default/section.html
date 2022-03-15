@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <main>
+      {{ .Content }}
+      <hr>
+      <div>
+        <ul class="contents">
+            {{ range .Paginator.Pages }}
+                <li>
+                    <div>
+                        <a href="{{ .Permalink }}">{{.Title}} by {{.Param "authors"}} </a>
+                    </div>
+                </li>
+            {{ end }}
+            </ul>
+      </div>
+  </main>
+{{ end }}
