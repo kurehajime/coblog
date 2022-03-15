@@ -2,6 +2,6 @@ baseURL = 'http://example.org/'
 languageCode = 'ja-JP'
 title = '共著ブログ'
 theme = "hugo-PaperMod-6.0"
-
+publishDir = "docs"
 [taxonomies]
 author = "authors"
