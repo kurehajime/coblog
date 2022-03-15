@@ -1,4 +1,3 @@
-baseURL = 'https://kurehajime.github.io/coblog/'
 relativeURLs = true
 languageCode = 'ja-JP'
 title = '共著ブログ'
