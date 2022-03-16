@@ -24,3 +24,5 @@ $ make run
 ```
 $ make new section=foo title=bar
 ```
+
+`content/foo/bar.md`を編集
