@@ -21,6 +21,6 @@ $ make run
 
 カテゴリfooのbarという記事を作成
 
-``
+```
 $ make new section=foo title=bar
 ```
